@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":" ",
+        "price": 200,
+        "image": "j1.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":" ",
+        "price": 250,
+        "image": "j2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" ",
+        "price": 290,
+        "image": "j3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" ",
+        "price": 200,
+        "image": "j4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" ",
+        "price": 300,
+        "image": "j5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" ",
+        "price": 200,
+        "image": "j6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" ",
+        "price": 200,
+        "image": "j7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" ",
+        "price": 200,
+        "image": "j8.jpg"
+    }
+
+]
