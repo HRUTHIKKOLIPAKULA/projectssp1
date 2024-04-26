@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":" Royal Green Beads Choker ",
+        "price": 179200,
+        "image": "1.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":"  Royal White pearl choker",
+        "price": 156516,
+        "image": "2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Royal Emarald choker",
+        "price": 190187,
+        "image": "3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Royal Red Beads Choker",
+        "price": 166687,
+        "image": "4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Royal white pearls lakshmi devi Choker",
+        "price": 134256,
+        "image": "5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Royal white pearls with red beads Choker",
+        "price": 158742,
+        "image": "7.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Royal Red Beads Choker",
+        "price": 209765,
+        "image": "6.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Royal LOUNGE CHAIR",
+        "price": 203006,
+        "image": "9.jpg"
+    }
+
+]

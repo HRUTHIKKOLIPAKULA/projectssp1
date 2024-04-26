@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":" COUPLE RING 1",
+        "price": 200,
+        "image": "cr1.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":" COUPLE RING 2",
+        "price": 250,
+        "image": "cr2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" COUPLE RING 3",
+        "price": 290,
+        "image": "cr3.jpg"
+    },
+    {
+        "id": 4,
+        "name":"COUPLE RING 4",
+        "price": 200,
+        "image": "cr4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" COUPLE RING 5",
+        "price": 300,
+        "image": "cr5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" COUPLE RING 6",
+        "price": 200,
+        "image": "cr6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" COUPLE RING 7",
+        "price": 200,
+        "image": "cr7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" COUPLE RING 8",
+        "price": 200,
+        "image": "cr8.jpg"
+    }
+
+]

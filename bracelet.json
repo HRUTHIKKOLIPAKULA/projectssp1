@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":" bracelet 1",
+        "price": 200,
+        "image": "b1.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":" bracelet 2",
+        "price": 250,
+        "image": "b2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" bracelet 3",
+        "price": 290,
+        "image": "b3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" bracelet4",
+        "price": 200,
+        "image": "b4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" bracelet 5",
+        "price": 300,
+        "image": "b5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" bracelet6",
+        "price": 200,
+        "image": "b6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" bracelet 7",
+        "price": 200,
+        "image": "b7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" bracelet8",
+        "price": 200,
+        "image": "b8.jpg"
+    }
+
+]

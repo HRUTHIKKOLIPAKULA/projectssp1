@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":"  CHAIN 1",
+        "price": 200,
+        "image": "mc1.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":"  CHAIN 2",
+        "price": 250,
+        "image": "mc2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"  CHAIN 3",
+        "price": 290,
+        "image": "mc3.jpg"
+    },
+    {
+        "id": 4,
+        "name":"  CHAIN 4",
+        "price": 200,
+        "image": "mc4.jpg"
+    },
+    {
+        "id": 5,
+        "name":"  CHAIN 5",
+        "price": 300,
+        "image": "mc5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" CHAIN 6",
+        "price": 200,
+        "image": "mc6.jpg"
+    },
+    {
+        "id": 7,
+        "name":"  CHAIN 7",
+        "price": 200,
+        "image": "mc7.jpg"
+    },
+    {
+        "id": 8,
+        "name":"  CHAIN 8",
+        "price": 200,
+        "image": "mc8.jpg"
+    }
+
+]

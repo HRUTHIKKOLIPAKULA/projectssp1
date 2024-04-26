@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":" NECKLACE 1",
+        "price": 200,
+        "image": "9.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":" NECKLACE 2",
+        "price": 250,
+        "image": "10.jpg"
+    },
+    {
+        "id": 3,
+        "name":"NECKLACE 3 ",
+        "price": 290,
+        "image": "11.jpg"
+    },
+    {
+        "id": 4,
+        "name":" NECKLACE 4",
+        "price": 200,
+        "image": "12.jpg"
+    },
+    {
+        "id": 5,
+        "name":" NECKLACE 5",
+        "price": 300,
+        "image": "13.jpg"
+    },
+    {
+        "id": 6,
+        "name":" NECKLACE 6",
+        "price": 200,
+        "image": "19.jpg"
+    },
+    {
+        "id": 7,
+        "name":" NECKLACE 7",
+        "price": 200,
+        "image": "15.jpg"
+    },
+    {
+        "id": 8,
+        "name":" NECKLACE 8",
+        "price": 200,
+        "image": "16.jpg"
+    }
+
+]

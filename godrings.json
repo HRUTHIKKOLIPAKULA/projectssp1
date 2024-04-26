@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":" OM  ",
+        "price": 179200,
+        "image": "gr1.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":"  VINAYAKA",
+        "price": 156516,
+        "image": "gr2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"TRISHUL",
+        "price": 190187,
+        "image": "gr3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" RAM PARIVAR",
+        "price": 166687,
+        "image": "gr4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" BALAJI",
+        "price": 134256,
+        "image": "gr5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" SUBRAMAYA",
+        "price": 158742,
+        "image": "gr7.jpg"
+    },
+    {
+        "id": 7,
+        "name":" SAI BABA",
+        "price": 209765,
+        "image": "gr6.jpg"
+    },
+    {
+        "id": 8,
+        "name":" LAKSHMI DEVI",
+        "price": 203006,
+        "image": "gr8.jpg"
+    }
+
+]

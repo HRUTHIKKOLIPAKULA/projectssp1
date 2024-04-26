@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":" DROP & DANGLERS 1",
+        "price": 200,
+        "image": "d1.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":" DROP & DANGLERS 2",
+        "price": 250,
+        "image": "d2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"DROP & DANGLERS 3",
+        "price": 290,
+        "image": "d3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" DROP & DANGLERS 4",
+        "price": 200,
+        "image": "d4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" DROP & DANGLERS 5",
+        "price": 300,
+        "image": "d5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" DROP & DANGLERS 6",
+        "price": 200,
+        "image": "d6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" DROP & DANGLERS 7",
+        "price": 200,
+        "image": "d7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" DROP & DANGLERS 8",
+        "price": 200,
+        "image": "d8.jpg"
+    }
+
+]
